@@ -1,0 +1,9 @@
+version: 5.0.1
+type: gradle
+usePlugin: true
+resolver:
+  repo: jcenter
+  serverID: art
+deployer:
+  repo: test-gradle-local
+  serverID: art
