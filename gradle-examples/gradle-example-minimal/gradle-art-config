@@ -1,9 +1,9 @@
-version: 5.0.1
+version: 1
 type: gradle
 usePlugin: true
 resolver:
   repo: jcenter
-  serverID: art
+  serverID: varsha_art
 deployer:
-  repo: test-gradle-local
-  serverID: art
+  repo: gradle-local
+  serverID: varsha_art
